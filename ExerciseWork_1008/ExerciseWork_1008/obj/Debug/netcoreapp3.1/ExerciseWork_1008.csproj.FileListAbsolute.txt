@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\bin\Debug\netcoreapp3.1\App_Data\六都A1類交通事故統計.json
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\bin\Debug\netcoreapp3.1\App_Data\高雄市108年路口監視器地點.csv
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\bin\Debug\netcoreapp3.1\ExerciseWork_1008.exe
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\bin\Debug\netcoreapp3.1\ExerciseWork_1008.deps.json
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\bin\Debug\netcoreapp3.1\ExerciseWork_1008.runtimeconfig.json
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\bin\Debug\netcoreapp3.1\ExerciseWork_1008.runtimeconfig.dev.json
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\bin\Debug\netcoreapp3.1\ExerciseWork_1008.dll
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\bin\Debug\netcoreapp3.1\ExerciseWork_1008.pdb
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\obj\Debug\netcoreapp3.1\ExerciseWork_1008.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\obj\Debug\netcoreapp3.1\ExerciseWork_1008.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\obj\Debug\netcoreapp3.1\ExerciseWork_1008.AssemblyInfo.cs
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\obj\Debug\netcoreapp3.1\ExerciseWork_1008.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\obj\Debug\netcoreapp3.1\ExerciseWork_1008.dll
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\obj\Debug\netcoreapp3.1\ExerciseWork_1008.pdb
+C:\Users\user\Desktop\ExerciseWork_1008\ExerciseWork_1008\obj\Debug\netcoreapp3.1\ExerciseWork_1008.genruntimeconfig.cache
