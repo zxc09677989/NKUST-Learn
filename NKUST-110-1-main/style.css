@@ -1,0 +1,50 @@
+* {
+  font-family: Bakbak One;
+}
+
+.tw_svg{
+  /* width: 80%; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+}
+
+svg {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: #222;
+}
+
+path {
+  stroke: white;
+  fill: transparent;
+  transition: 0.5s;
+  cursor: pointer;
+}
+path:hover {
+  fill: #198964;
+  transform: translate(-5px, -5px);
+}
+
+.title_area {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  color: white;
+  font-size: 20px;
+}
+
+hr {
+  width: 50px;
+  margin-right: 0;
+}
+
+.iframe_area {
+  height: 45em;
+  margin: auto;
+  margin-top: 5em;
+}
+
